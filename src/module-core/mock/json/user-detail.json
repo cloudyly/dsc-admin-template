@@ -1,0 +1,11 @@
+{
+  "roles": [
+    "admin"
+  ],
+  "userInfo": {
+    "mobile": "1333333123",
+    "username": "张三",
+    "company": "XXX有限公司",
+    "email": "zhangsan@xxx.com"
+  }
+}
